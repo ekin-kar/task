@@ -1,0 +1,29 @@
+.img {
+  width: 100px;
+  height: auto;
+  display: block;
+  border-radius: 10%;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #444;
+  border-radius: 8px;
+  background-color: #333;
+  width: 700px;
+  gap: 30px;
+}
+
+.user-details {
+  display: flex;
+  gap: 10px;
+}
+
+.button-wrapper {
+  display: flex;
+  gap: 10px;
+}
